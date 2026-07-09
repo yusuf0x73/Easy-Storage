@@ -16,7 +16,7 @@
 
 ## 🚀 Why should i use this?
 
-I would advice you to visit this <a href="https://yusuf-yeniceri.github.io/Easy-Storage">website</a>, but to summarize it, that's easiest way to manage your local storage. It has 3 powerful functions, get, set and modify.
+I would advice you to visit this <a href="https://yusuf0x73.github.io/Easy-Storage">website</a>, but to summarize it, that's easiest way to manage your local storage. It has 3 powerful functions, get, set and modify.
 
 
 ## :exclamation: Requirements
